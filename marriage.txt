@@ -1,0 +1,576 @@
+
+Wife_name : wrf
+Husband name: rtg
+Marrige_budget : 2
+Address : fd
+Sound_System : f
+Wife_name : rtgfv
+Husband name: trgb
+Marrige_budget : 2
+Address : trgbf
+Sound_System : grt
+Wife_name : erf
+Husband name: rge
+Marrige_budget : 2
+Address : gre
+Sound_System : rge
+Gujrati Food : gre
+Wife_name : rfdvr
+Husband name: re
+Marrige_budget : 2
+Address : re
+Sound_System : r
+Gujrati Food : gre
+Wife_name : trgfbv
+Husband name: trbf
+Marrige_budget : 3
+Address : rtb
+Sound_System : rbt
+Gujrati Food : tbr
+Wife_name : 1
+Husband name: fd
+Marrige_budget : 2
+Address : df
+Sound_System : fd
+Wife_name : fd
+Husband name: fd
+Marrige_budget : 2
+Address : fd
+Sound_System : df
+Gujrati Food : rf
+Wife_name : de
+Husband name: efc
+Marrige_budget : 2
+Address : ef
+Sound_System : fe
+Gujrati Food : ef
+Wife_name : 4rfew
+Husband name: rfe
+Marrige_budget : 2
+Address : rg
+Sound_System : gr
+Wife_name : de
+Husband name: 3
+Marrige_budget : 33
+Address : 3
+Sound_System : 
+Panjabi Food : tfg
+Gujrati Food : de
+Wife_name : fd
+Husband name: 2
+Marrige_budget : 2
+Address : 2
+Sound_System : 2
+Gujrati Food : v
+Wife_name : rve
+Husband name: re
+Marrige_budget : 3
+Address : vrf
+Sound_System : v
+Wife_name : fghjb
+Husband name: tfhg
+Marrige_budget : 2
+Address : fg
+Sound_System : fg
+Gujrati Food : gf
+Wife_name : fdg
+Husband name: gh
+Marrige_budget : 2
+Address : gf
+Sound_System : g
+Wife_name : dfshhf
+Husband name: jkf
+Marrige_budget : 555
+Address : hhbfd
+Sound_System : jkjvf
+Gujrati Food : hihifd
+Wife_name : suhani
+Husband name: sahdev
+Marrige_budget : 1311
+Address : ugugfudh
+Sound_System : hhfd
+Gujrati Food : dsgggdc
+Wife_name : fwe
+Husband name: edf
+Marrige_budget : 3
+Address : dfe
+Sound_System : rf
+Wife_name : fde
+Husband name: re
+Marrige_budget : 2
+Address : re
+Sound_System : re
+Gujrati Food : gre
+Wife_name : dsa
+Husband name: dcs
+Marrige_budget : 2
+Address : ds
+Sound_System : dc
+Gujrati Food : ds
+Wife_name : ds
+Husband name: dcs
+Marrige_budget : 3
+Address : ds
+Sound_System : ds
+Wife_name : sjahjdhe
+Husband name: khkhrf
+Marrige_budget : 545
+Address : fdhhhfd
+Sound_System : lhkkfd
+Wife_name : rdf
+Husband name: gfd
+Marrige_budget : 32
+Address : fvd
+Sound_System : fd
+Gujrati Food : fd
+Wife_name : rg
+Husband name: gf
+Marrige_budget : 2
+Address : bg
+Sound_System : bgf
+Gujrati Food : gb
+Wife_name : trh
+Husband name: thr
+Marrige_budget : 2
+Address : trh
+Sound_System : th
+Wife_name : 1
+Husband name: 1
+Marrige_budget : 1
+Address : 1
+Sound_System : 1
+Wife_name : re
+Husband name: fd
+Marrige_budget : 32
+Address : 2
+Sound_System : 2
+Wife_name : 4f
+Husband name: 2
+Marrige_budget : 2
+Address : 2
+Sound_System : 2
+Gujrati Food : 2
+Wife_name : g
+Husband name: 2
+Marrige_budget : 2
+Address : 2
+Sound_System : 2
+Wife_name : fc
+Husband name: 2
+Marrige_budget : 2
+Address : 2
+Sound_System : 2
+Gujrati Food : 2
+Wife_name : fd
+Husband name: 2
+Marrige_budget : 2
+Address : 2
+Sound_System : 2
+Gujrati Food : 2
+Wife_name : 22
+Husband name: 2
+Marrige_budget : 2
+Address : 2
+Sound_System : 2
+Gujrati Food : 2
+Wife_name : 1
+Husband name: 1
+Marrige_budget : 1
+Address : 1
+Sound_System : 12
+Gujrati Food : bv
+Wife_name : Suhani
+Husband name: Sahdev
+Marrige_budget : 100000
+Address : Bhutiya
+Sound_System : Rocks
+Gujrati Food : sdfg
+Wife_name : nnj
+Husband name: kjk
+Marrige_budget : 5885
+Address : jk
+Sound_System : ljk
+Wife_name : gcghf
+Husband name: yhfcyh
+Marrige_budget : 5525885258
+Address : tcdtydx
+Sound_System : cgh dyh
+Wife_name : sdfg
+Husband name: sdfg
+Marrige_budget : 52525
+Address : sdfg
+Sound_System : sdfg
+Wife_name : sdfg
+Husband name: sdfg
+Marrige_budget : 3242342
+Address : sdfgsdfg
+Sound_System : sdfgsdfg
+Wife_name : sdfg
+Husband name: sdfg
+Marrige_budget : 23423
+Address : sdfg
+Sound_System : sdfg
+Wife_name : sdfg
+Husband name: sdfg
+Marrige_budget : 234
+Address : sdfg
+Sound_System : sdfg
+Wife_name : sdfg
+Husband name: gsdfgsdfg
+Marrige_budget : 2342342342
+Address : sdfgsdgfsdfg
+Sound_System : sdfgsdfgsdfgdsfg
+Index_No :1
+Husband name: Sahdev
+Wife_name : Suhani
+Marrige_budget : 1000000
+Address : Bhutiya
+Sound_System : Rocks
+Index_No :2
+Husband name: Hardik
+Wife_name : Nisha
+Marrige_budget : 12000000
+Address : Bhavnagar
+Sound_System : Dj
+Index_No :1
+Husband name: sahdev
+Wife_name : suhani
+Marrige_budget : 100000
+Address : bhutiya
+Sound_System : rocks
+Index_No :1
+Husband name: sahdev
+Wife_name : suhani
+Marrige_budget : 10000
+Address : bhutiya
+Sound_System : rocks
+Index_No :1
+Husband name: sahdev
+Wife_name : suhani
+Marrige_budget : 11000
+Address : bhutiya
+Sound_System : rocks
+Index_No :1
+Husband name: sca
+Wife_name : sc
+Marrige_budget : 2
+Address : sca
+Sound_System : sc
+Index_No :1
+Husband name: rgfv
+Wife_name : fd
+Marrige_budget : 2
+Address : df
+Sound_System : fvd
+Index_No :1
+Husband name: acs
+Wife_name : dfsz
+Marrige_budget : 2
+Address : sfd
+Sound_System : fsd
+Index_No :1
+Husband name: fsd
+Wife_name : d
+Marrige_budget : 2
+Address : dvs
+Sound_System : dv
+Index_No :1
+Husband name: dcs
+Wife_name : sc
+Marrige_budget : 2
+Address : cs
+Sound_System : cs
+Index_No :1
+Husband name: fd
+Wife_name : fe
+Marrige_budget : 2
+Address : er
+Sound_System : re
+Index_No :2
+Husband name: frw
+Wife_name : feww
+Marrige_budget : 3
+Address : wfe
+Sound_System : fwe
+Index_No :1
+Husband name: rge
+Wife_name : eg
+Marrige_budget : 2
+Address : er
+Sound_System : ger
+Index_No :1
+Husband name: fsd
+Wife_name : rg
+Marrige_budget : 2
+Address : wfe
+Sound_System : efw
+Index_No :2
+Husband name: efw
+Wife_name : efw
+Marrige_budget : 2
+Address : wfe
+Sound_System : wfe
+Index_No :1
+Husband name: suhh
+Wife_name : hkdf
+Marrige_budget : 4
+Address : sdjhd
+Sound_System : hhsdv
+Index_No :2
+Husband name: hhkgfd
+Wife_name : jkjkdf
+Marrige_budget : 43
+Address : khkd
+Sound_System : nkdf'
+Index_No :1
+Husband name: ewf
+Wife_name : ew
+Marrige_budget : 2
+Address : ew
+Sound_System : ew
+Index_No :2
+Husband name: ewv
+Wife_name : ve
+Marrige_budget : 2
+Address : v
+Sound_System : v
+Index_No :1
+Husband name: ef
+Wife_name : fre
+Marrige_budget : 2
+Address : ef
+Sound_System : f
+Index_No :1
+Husband name: fre
+Wife_name : re
+Marrige_budget : 2
+Address : 2
+Sound_System : 2
+Index_No :1
+Husband name: ec
+Wife_name : c
+Marrige_budget : 2
+Address : 2
+Sound_System : 2
+Index_No :2
+Husband name: 2
+Wife_name : 2
+Marrige_budget : 2
+Address : 2
+Sound_System : 2
+Index_No :1
+Husband name: de
+Wife_name : 2
+Marrige_budget : 22
+Address : 2
+Sound_System : 2
+Index_No :222
+Husband name: 222
+Wife_name : 2222
+Marrige_budget : 2222
+Address : 222
+Sound_System : 222
+Index_No :1
+Husband name: 112
+Wife_name : 222
+Marrige_budget : 222
+Address : 222
+Sound_System : 22
+Index_No :1
+Husband name: 1222
+Wife_name : 222
+Marrige_budget : 222
+Address : 222
+Sound_System : 222
+Index_No :1
+Husband name: 1
+Wife_name : 1
+Marrige_budget : 1
+Address : 1
+Sound_System : 1
+Index_No :1
+Husband name: 1
+Wife_name : 1
+Marrige_budget : 1
+Address : 1
+Sound_System : 1
+Index_No :1
+Husband name: 1
+Wife_name : 1
+Marrige_budget : 1
+Address : 1
+Sound_System : 1
+Index_No :1
+Husband name: 1
+Wife_name : 1
+Marrige_budget : 1
+Address : 1
+Sound_System : 1
+Index_No :1
+Husband name: 1
+Wife_name : 1
+Marrige_budget : 1
+Address : 11
+Sound_System : 1
+Index_No :2
+Husband name: 1
+Wife_name : 1
+Marrige_budget : 11
+Address : 22
+Sound_System : 22
+Index_No :1
+Husband name: 1
+Wife_name : 1
+Marrige_budget : 1
+Address : 11
+Sound_System : 1
+Index_No :2
+Husband name: 1
+Wife_name : 
+Marrige_budget : 2
+Address : 2
+Sound_System : 1
+Index_No :1
+Husband name: 1
+Wife_name : 12
+Marrige_budget : 22
+Address : 2
+Sound_System : 2
+Index_No :222
+Husband name: 222
+Wife_name : 2222
+Marrige_budget : 22
+Address : 2
+Sound_System : 2
+Index_No :1
+Husband name: 12
+Wife_name : 2
+Marrige_budget : 21
+Address : 1
+Sound_System : 1
+Index_No :1
+Husband name: 1
+Wife_name : 1
+Marrige_budget : 1
+Address : 1
+Sound_System : 1
+Index_No :1
+Husband name: 1
+Wife_name : 1
+Marrige_budget : 1
+Address : 1
+Sound_System : 1
+Index_No :1
+Husband name: 1
+Wife_name : 1
+Marrige_budget : 1
+Address : 1
+Sound_System : 1
+Index_No :1
+Husband name: 1
+Wife_name : 1
+Marrige_budget : 1
+Address : 1
+Sound_System : 1
+Index_No :2
+Husband name: 2
+Wife_name : 2
+Marrige_budget : 2
+Address : 2
+Sound_System : 2
+Index_No :1
+Husband name: 1
+Wife_name : 1
+Marrige_budget : 1
+Address : 1
+Sound_System : 1
+Index_No :2
+Husband name: 2
+Wife_name : 2
+Marrige_budget : 2
+Address : 2
+Sound_System : 2
+Index_No :1
+Husband name: 1
+Wife_name : 1
+Marrige_budget : 1
+Address : 1
+Sound_System : 1
+Index_No :2
+Husband name: 2
+Wife_name : 2
+Marrige_budget : 2
+Address : 2
+Sound_System : 2
+Index_No :1
+Husband name: wsdfvb
+Wife_name : dfgh
+Marrige_budget : 22
+Address : 22
+Sound_System : 222
+Index_No :2
+Husband name: 222
+Wife_name : 2222
+Marrige_budget : 222
+Address : 222
+Sound_System : 22
+Index_No :1
+Husband name: efw
+Wife_name : ewf
+Marrige_budget : 2
+Address : ef
+Sound_System : fe
+Index_No :2
+Husband name: ef
+Wife_name : ef
+Marrige_budget : 2
+Address : ef
+Sound_System : ef
+Index_No :1
+Husband name: dv
+Wife_name : 22
+Marrige_budget : 22
+Address : 222
+Sound_System : 222
+Index_No :2
+Husband name: 222
+Wife_name : 2222
+Marrige_budget : 2225
+Address : 5552
+Sound_System : 215
+Index_No :1
+Husband name: fes
+Wife_name : rfds
+Marrige_budget : 22
+Address : ds
+Sound_System : sd
+Index_No :2
+Husband name: sdz
+Wife_name : efds
+Marrige_budget : 22
+Address : sd
+Sound_System : dcs
+Index_No :2
+Husband name: rfds
+Wife_name : rfds
+Marrige_budget : 55
+Address : ds
+Sound_System : ds
+Index_No :
+Husband name: 
+Wife_name : 
+Marrige_budget : 
+Address : 
+Sound_System : 
+Index_No :1
+Husband name: Sahdev
+Wife_name : Suhani
+Marrige_budget : 100000
+Address : Bhutiya
+Sound_System : Rocks
+Index_No :2
+Husband name: Sahdev
+Wife_name : Nisha
+Marrige_budget : 150000
+Address : Bhavnagar
+Sound_System : Rajput
