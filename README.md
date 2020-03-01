@@ -33,5 +33,13 @@ Angagement's data save in Angagement.txt file.
 Party's data save in partys.txt file.
 
 
-************************************** END *****************************************
+		************************************** END *****************************************
+		
+		
+		IF YOU WANT TO USE THIS PROJECT THEN YOU MUST BE INSTALL CSV PACKEGE END PANDAS CSV PACKEGE IN YOUR PARTICULAR PROJECT.
+		
+		PANDAS CSV PACKEGE:- pip install pandas
+		CSV PACKEGE :-pip install python-csv
+		
+		
 
