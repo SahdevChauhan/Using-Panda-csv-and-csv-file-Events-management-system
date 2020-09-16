@@ -4,7 +4,7 @@ Software Engineering Project Name:-Event Management System language we used:-Pyt
 Project Name:-Event Management System
 language we used:-Python
 
-In this project we put some sub-event.
+In this project i put some sub-event.
 like,
 1)Merriage Management
 2)Angagement Management
